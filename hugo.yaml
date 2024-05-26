@@ -9,6 +9,8 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+googleAnalytics: G-61DQ64GNV7
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -52,7 +54,7 @@ params:
 
   label:
     text: "루크의 블로그"
-    icon: /apple-touch-icon.png
+    icon: favicon/apple-touch-icon.png
     iconHeight: 35
 
   # home-info mode
@@ -63,14 +65,16 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/YCLK"
-    - name: coffee
+    - name: buymeacoffee
       url: "https://toss.me/luke0619"
+    - name: discord
+      url: "https://www.discord.com/users/503356295001407488"
     - name: email
       url: "mailto:contact.yclk@gmail.com"
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
     # bing:
     #   SiteVerificationTag: "XYZabc"
     # yandex:
