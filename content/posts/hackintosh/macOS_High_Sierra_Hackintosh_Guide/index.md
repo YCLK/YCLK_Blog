@@ -1,7 +1,7 @@
 +++
 title = 'macOS High Sierra (10.13.6) 해킨토시 설치 가이드 (Feat. Opencore 0.9.8)'
 date = 2024-02-20
-draft = true
+draft = false
 
 [cover]
 image = 'images/cover.png'
