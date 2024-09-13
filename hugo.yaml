@@ -25,9 +25,9 @@ params:
   title: 루크의 블로그
   description: "루크의 블로그"
   keywords: [Blog, 블로그, YCLK, 루크, 개발자, 개발블로그, 코딩, Devlog, Development]
-  author: "YCLK"
+  author: YCLK
   # author: ["Me", "You"] # multiple authors
-  images: "images/YCLK-Blog-Opengraph.png" # ink or path of image for opengraph, twitter-cards
+  images: ["images/YCLK-Blog-Opengraph.png"] # ink or path of image for opengraph, twitter-cards
   DateFormat: "2006년 01월 02일"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
