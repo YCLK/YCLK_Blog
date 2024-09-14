@@ -2,7 +2,7 @@ baseURL: https://blog.yclk.me/
 languageCode: ko-kr
 title: 루크의 블로그
 paginate: 5
-theme: PaperMod
+theme: ["PaperMod"]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -23,7 +23,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 루크의 블로그
-  description: "루크의 블로그"
+  description: "✨ IT와 개발 지식 창고, 루크의 블로그!"
   keywords: [Blog, 블로그, YCLK, 루크, 개발자, 개발블로그, 코딩, Devlog, Development]
   author: YCLK
   # author: ["Me", "You"] # multiple authors
