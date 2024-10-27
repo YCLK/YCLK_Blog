@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 25 May 2024 20:12:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.yclk.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>시리얼</title>
+      <link>https://blog.yclk.me/tags/%EC%8B%9C%EB%A6%AC%EC%96%BC/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.yclk.me/tags/%EC%8B%9C%EB%A6%AC%EC%96%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>아두이노</title>
+      <link>https://blog.yclk.me/tags/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.yclk.me/tags/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>입력</title>
+      <link>https://blog.yclk.me/tags/%EC%9E%85%EB%A0%A5/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.yclk.me/tags/%EC%9E%85%EB%A0%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>출력</title>
+      <link>https://blog.yclk.me/tags/%EC%B6%9C%EB%A0%A5/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.yclk.me/tags/%EC%B6%9C%EB%A0%A5/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugo</title>
       <link>https://blog.yclk.me/tags/hugo/</link>

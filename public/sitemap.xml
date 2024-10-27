@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.yclk.me/posts/</loc>
-    <lastmod>2024-09-07T21:10:26+09:00</lastmod>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.yclk.me/</loc>
-    <lastmod>2024-09-07T21:10:26+09:00</lastmod>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/%EC%8B%9C%EB%A6%AC%EC%96%BC/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/dev/arduino/arduino-basic/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/%EC%9E%85%EB%A0%A5/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/%EC%B6%9C%EB%A0%A5/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -23,11 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.yclk.me/tags/hugo/</loc>
-    <lastmod>2024-05-25T20:12:23+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.yclk.me/tags/</loc>
     <lastmod>2024-05-25T20:12:23+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

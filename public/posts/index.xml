@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 11 Jun 2024 13:57:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.yclk.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>아두이노 기초 (Feat. 전기 전자, 입출력, 시리얼 통신)</title>
+      <link>https://blog.yclk.me/posts/dev/arduino/arduino-basic/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.yclk.me/posts/dev/arduino/arduino-basic/</guid>
+      <description>회로 설계의 기본 전기가 흐르기 위해서는 전위차가 있어야 함. 전위차란, 전기 에너지가 가지는 위치 에너지의 차이로, 전기 에너지가 가지는 위치 에너지가 높은 곳에서 낮은 곳으로 전기가 흐르게 됨. 아두이노의 5V(+)가 높은 위치 에너지 GND(-)가 낮은 위치 에너지를 가짐. 아두이노란? 이탈리아어로 &amp;lsquo;강력한 친구&amp;rsquo; 라는 의미 전기·전자를 손쉽게 공부할 수 있도록 개발된 보드(일종의 컴퓨터)이며 비전공자들도 널리 사용함. 프로그램을 작성해서 보드에 저장할 수 있으며 전원이 인가되는 동안 계속해서 반복 실행함. 브레드보드란? 납땜 없이 동시에 여러 센서를 사용해야 할 때 사용함.</description>
+    </item>
     <item>
       <title>2024 SW 아카데미 2주차 | 리스트와 반복 구조</title>
       <link>https://blog.yclk.me/posts/dev/python/list-repeat-structure-week2/</link>
