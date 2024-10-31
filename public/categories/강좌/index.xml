@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>강좌 on 루크의 블로그</title>
+    <link>https://blog.yclk.me/categories/%EA%B0%95%EC%A2%8C/</link>
+    <description>Recent content in 강좌 on 루크의 블로그</description>
+    <image>
+      <title>루크의 블로그</title>
+      <url>https://blog.yclk.me/images/YCLK-Blog-Opengraph.png</url>
+      <link>https://blog.yclk.me/images/YCLK-Blog-Opengraph.png</link>
+    </image>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.yclk.me/categories/%EA%B0%95%EC%A2%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macOS High Sierra (10.13.6) 해킨토시 설치 가이드 (Feat. Opencore 0.9.8)</title>
+      <link>https://blog.yclk.me/posts/macos-high-sierra-hackintosh-guide/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.yclk.me/posts/macos-high-sierra-hackintosh-guide/</guid>
+      <description>오픈코어를 활용한 해킨토시 macOS High Sierra (10.13.6) 설치 가이드</description>
+    </item>
+  </channel>
+</rss>

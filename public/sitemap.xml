@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.yclk.me/posts/</loc>
-    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.yclk.me/tags/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -27,7 +22,7 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/dev/arduino/arduino-basic/</loc>
+    <loc>https://blog.yclk.me/arduino-basic/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -42,12 +37,17 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/dev/python/list-repeat-structure-week2/</loc>
+    <loc>https://blog.yclk.me/posts/</loc>
+    <lastmod>2024-09-28T21:10:26+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/list-repeat-structure-week2/</loc>
     <lastmod>2024-06-11T13:57:36+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/dev/python/variables-selection-structure-week1/</loc>
+    <loc>https://blog.yclk.me/posts/variables-selection-structure-week1/</loc>
     <lastmod>2024-06-10T13:57:18+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -67,13 +67,18 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/dev/hugo/tistory-to-hugo/</loc>
+    <loc>https://blog.yclk.me/posts/tistory-to-hugo/</loc>
     <lastmod>2024-05-25T20:12:23+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.yclk.me/tags/%ED%9C%B4%EA%B3%A0/</loc>
     <lastmod>2024-05-25T20:12:23+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/categories/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -87,12 +92,17 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/hackintosh/macos-high-sierra-hackintosh-guide/</loc>
+    <loc>https://blog.yclk.me/posts/macos-high-sierra-hackintosh-guide/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.yclk.me/tags/opencore/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/categories/%EA%B0%95%EC%A2%8C/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -127,22 +137,47 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/review/hp-stream-13-review-in-2024/</loc>
+    <loc>https://blog.yclk.me/posts/hp-stream-13-review-in-2024/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/tips/weekly-study-planner-templete-pdf/</loc>
+    <loc>https://blog.yclk.me/tags/hp/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/hp%EC%8A%A4%ED%8A%B8%EB%A6%BC/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/%EB%84%B7%EB%B6%81/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/%EB%85%B8%ED%8A%B8%EB%B6%81/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/categories/%EB%A6%AC%EB%B7%B0/</loc>
+    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/weekly-study-planner-templete-pdf/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/tips/anki-chinese-character-templete/</loc>
+    <loc>https://blog.yclk.me/posts/anki-chinese-character-templete/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/review/samsung-sens-q45-review/</loc>
+    <loc>https://blog.yclk.me/posts/samsung-sens-q45-review/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -157,7 +192,7 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/posts/tips/how-to-certificate-github-student-developer-pack/</loc>
+    <loc>https://blog.yclk.me/posts/how-to-certificate-github-student-developer-pack/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -204,10 +239,6 @@
   </url><url>
     <loc>https://blog.yclk.me/tags/%ED%95%99%EC%83%9D%EC%9D%B8%EC%A6%9D/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.yclk.me/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>

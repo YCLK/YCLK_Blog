@@ -15,11 +15,10 @@
     <atom:link href="https://blog.yclk.me/tags/%ED%95%B4%ED%82%A8%ED%86%A0%EC%8B%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>macOS High Sierra (10.13.6) 해킨토시 설치 가이드 (Feat. Opencore 0.9.8)</title>
-      <link>https://blog.yclk.me/posts/hackintosh/macos-high-sierra-hackintosh-guide/</link>
+      <link>https://blog.yclk.me/posts/macos-high-sierra-hackintosh-guide/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.yclk.me/posts/hackintosh/macos-high-sierra-hackintosh-guide/</guid>
-      <description>본 글은 기본적인 해킨토시에 대한 지식은 가지고 있는 분들을 대상으로 작성했습니다. 질문은 언제든지 댓글로 달아주세요 :)
-| 들어가며 안녕하세요! 루크입니다 :) macOS가 필요한 환경은 아니지만 리얼맥은 한 번도 사용해보지 못한 터라 항상 해킨을 하고 싶다는 생각은 있었습니다. 하지만 현재 메인으로 사용하는 시스템은 엔비디아 그래픽 카드를 사용하고 있어 하이 시에라 이상의 OS를 올릴 수 없기에(올릴 수는 있지만 가속이 안되어 실사용이 안됩니다 ㅜ.ㅜ) 이번 포스팅에서는 오픈코어를 사용하여 하이 시에라를 설치하는 과정에 대해서 소개하고자 합니다.</description>
+      <guid>https://blog.yclk.me/posts/macos-high-sierra-hackintosh-guide/</guid>
+      <description>오픈코어를 활용한 해킨토시 macOS High Sierra (10.13.6) 설치 가이드</description>
     </item>
   </channel>
 </rss>
