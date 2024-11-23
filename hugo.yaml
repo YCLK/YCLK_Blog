@@ -46,7 +46,6 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
-  customCss: ["css/extended/custom_font.css", "css/extended/custom.css"]
 
   assets:
     disableHLJS: true # to disable highlight.js
