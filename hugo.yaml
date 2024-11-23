@@ -46,6 +46,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  customCss: ["css/extended/custom_font.css", "css/extended/custom.css"]
 
   assets:
     disableHLJS: true # to disable highlight.js
@@ -79,10 +80,6 @@ params:
   analytics:
     google:
       SiteVerificationTag: ""
-    # bing:
-    #   SiteVerificationTag: "XYZabc"
-    # yandex:
-    #   SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: false # hide everywhere but not in structured data
