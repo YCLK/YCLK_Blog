@@ -1,8 +1,10 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+summary = ""
 date = {{ .Date }}
-draft = true
+categories = [""]
 tags = [""]
+draft = true
 
 [cover]
 image = 'images/cover.png'

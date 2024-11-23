@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.yclk.me/posts/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://blog.yclk.me/tags/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -22,7 +27,7 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/arduino-basic/</loc>
+    <loc>https://blog.yclk.me/posts/arduino-basic-concept/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -34,11 +39,6 @@
   </url><url>
     <loc>https://blog.yclk.me/tags/%EC%B6%9C%EB%A0%A5/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.yclk.me/posts/</loc>
-    <lastmod>2024-09-28T21:10:26+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -239,6 +239,10 @@
   </url><url>
     <loc>https://blog.yclk.me/tags/%ED%95%99%EC%83%9D%EC%9D%B8%EC%A6%9D/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/csv-pandas-error/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>

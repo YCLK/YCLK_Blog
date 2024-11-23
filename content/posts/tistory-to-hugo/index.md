@@ -1,13 +1,12 @@
 +++
 title = '티스토리에서 Hugo로! 나의 블로그 이전기'
+summary = '✨ 블로그를 티스토리에서 휴고(Hugo)로 이전하다!'
 date = 2024-05-25T20:12:23+09:00
 draft = false
 tags = ["티스토리", "휴고", "tistory", "hugo"]
 
 [cover]
 image = 'images/cover.png'
-alt = "Tistory to Hugo"  # 이미지 대체 텍스트
-caption = "Tistory to Hugo"  # 이미지 캡션 (선택사항)
 +++
 
 ## | 들어가며

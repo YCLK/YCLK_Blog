@@ -26,7 +26,6 @@ params:
   description: "✨ IT와 개발 지식 창고, 루크의 블로그!"
   keywords: [Blog, 블로그, YCLK, 루크, 개발자, 개발블로그, 코딩, Devlog, Development]
   author: YCLK
-  # author: ["Me", "You"] # multiple authors
   images: ["images/YCLK-Blog-Opengraph.png"] # ink or path of image for opengraph, twitter-cards
   DateFormat: "2006년 01월 02일"
   defaultTheme: auto # dark, light
@@ -64,7 +63,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "안녕하세요! \U0001F44B"
+    Title: "안녕하세요!"
     Content: 루크의 블로그에 오신것을 환영합니다 :)
 
   socialIcons:
@@ -75,7 +74,7 @@ params:
     - name: discord
       url: "https://www.discord.com/users/503356295001407488"
     - name: email
-      url: "mailto:contact.yclk@gmail.com"
+      url: "mailto:luke@yclk.me"
 
   analytics:
     google:

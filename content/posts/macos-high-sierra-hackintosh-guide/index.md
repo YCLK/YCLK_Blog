@@ -1,6 +1,6 @@
 +++
 title = 'macOS High Sierra (10.13.6) 해킨토시 설치 가이드 (Feat. Opencore 0.9.8)'
-summary = '오픈코어를 활용한 해킨토시 macOS High Sierra (10.13.6) 설치 가이드'
+summary = '💻 오픈코어를 활용한 해킨토시 macOS High Sierra (10.13.6) 설치 가이드'
 date = 2024-02-20
 draft = false
 categories = ["강좌"]

@@ -1,12 +1,11 @@
 +++
 title = '삼성 SENS Q45 체험기 (Feat. Lubuntu 18.04)'
+summary = '삼성 SENS Q45 사용 후기'
 date = 2023-12-13
 draft = false
 
 [cover]
 image = 'images/cover.png'
-alt = "SENS Q45"  # 이미지 대체 텍스트
-caption = "SENS Q45"  # 이미지 캡션 (선택사항)
 
 +++
 

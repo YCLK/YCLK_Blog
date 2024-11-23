@@ -1,5 +1,6 @@
 +++
 title = '일주일을 계획하는 위클리 스터디 플래너 PDF 양식 공유'
+summary = '✍️ 주간 계획 수립에 도움을 주는 스터디 플래너 PDF 양식 공유'
 date = 2023-12-31
 draft = false
 [cover]

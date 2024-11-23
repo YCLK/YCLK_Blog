@@ -8,7 +8,7 @@ hugo -t PaperMod
 # blog 저장소 Commit & Push
 git add .
 
-msg="블로그 업데이트 `date`"
+msg="🔥 블로그 업데이트 `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
