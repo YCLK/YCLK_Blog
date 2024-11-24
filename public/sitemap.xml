@@ -42,6 +42,41 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://blog.yclk.me/categories/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/css/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/tailwind/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/posts/applying-web-font-on-tailwind-css/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/categories/%EA%B0%95%EC%A2%8C/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/%EC%9B%B9%ED%8F%B0%ED%8A%B8/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.yclk.me/tags/%ED%8F%B0%ED%8A%B8/</loc>
+    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://blog.yclk.me/posts/list-repeat-structure-week2/</loc>
     <lastmod>2024-06-11T13:57:36+09:00</lastmod>
     <changefreq>daily</changefreq>
@@ -77,11 +112,6 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.yclk.me/categories/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.yclk.me/tags/hackintosh/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -98,11 +128,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.yclk.me/tags/opencore/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.yclk.me/categories/%EA%B0%95%EC%A2%8C/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -239,10 +264,6 @@
   </url><url>
     <loc>https://blog.yclk.me/tags/%ED%95%99%EC%83%9D%EC%9D%B8%EC%A6%9D/</loc>
     <lastmod>2023-03-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.yclk.me/posts/csv-pandas-error/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
