@@ -8,6 +8,10 @@ body {
     line-height: 1.7; /* 원하는 값으로 설정 */
 }
 
+.header {
+    padding-top: 15px; /* 원하는 여백 크기로 수정 */
+}
+
 /*  이전 / 다음 포스트 패딩 */
 .paginav > a {
 	padding: 0.5rem;
