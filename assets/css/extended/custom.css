@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding-top: 15px; /* 원하는 여백 크기로 수정 */
+    padding-top: 10px; /* 상단 여백 */
 }
 
 /*  이전 / 다음 포스트 패딩 */
